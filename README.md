@@ -1,4 +1,4 @@
-# Applying the functional blueprint to transform your business
+# BRK331: Applying the functional blueprint to transform your business
 
 ![Session cover image with a bright "AI" text in 3D over a blue and purple abstract background.](img/BRK331.png)
 
