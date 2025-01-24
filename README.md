@@ -11,8 +11,7 @@ You can find slides of the presentation here.
 
 | Resources          | Links                             | Description        |
 |:-------------------|:----------------------------------|:-------------------|
-| BRK331 Spanish-language PPT Slides | [Link 1](https://aka.ms/AAsmf4p/) | Presentation deck in Spanish|
-| BRK331 Portuguese-language PPT Slides | [Link 2](https://aka.ms/AAsltw8) | Presentation deck in Portuguese|
+| BRK331 English-language PPT Slides | [Link 1](https://aka.ms/xxxxxx/) | Presentation deck in English|
 
 ## Content Owners
 Matt McKenzie, Director Product Marketing, Microsoft
